@@ -1,3 +1,2 @@
 this is file1 first line
 Line 2 from new - conflict branch
-I am updating from master branch
